@@ -13,6 +13,7 @@ public class Principal02 {
 
     /**
      * @param args the command line arguments
+     * Se ha realizaco configuración de Netbeans en equipo personal.
      */
     public static void main(String[] args) {
         // TODO code application logic here
